@@ -1,0 +1,122 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.cv-background {
+    background-color: white;
+    background-size: cover;
+    height: 100vh;
+}
+
+.cv-top-card {
+    color: white;
+    padding: 20px;
+}
+
+.cv-top-head {
+    color: #323f4b;
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.cv-top-button {
+    border-radius: 5px;
+    border-width: 0px;
+    padding: 7px;
+    height: 40px;
+    width: 100px;
+}
+
+.cv-mid-card {
+    border-radius: 10px;
+    background-color: #0967d219;
+    padding: 5px;
+    margin: 15px;
+}
+
+.cv-mid-head-card {
+    padding: 4px;
+}
+
+.cv-mid-head {
+    font-family: "Roboto";
+    color: #323f4b;
+    font-weight: bold;
+}
+
+.cv-mid-paragraph {
+    color: #707070;
+    font-weight: 500;
+    font-size: 15px;
+}
+
+.cv-sym-head {
+    color: #323f4b;
+    padding: 10px;
+    font-weight: bold;
+}
+
+.cv-sym-card {
+    padding: 10px;
+    margin: 10px;
+}
+
+.cv-sym-dry {
+    background-color: #3ebd93;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    font-size: 10px;
+}
+
+.cv-sym-fever {
+    background-color: #e668a7;
+    border-radius: 10px;
+    margin: 10px;
+    font-size: 10px;
+    padding: 10px;
+}
+
+.cv-sym-headache {
+    background-color: #a368fc;
+    border-radius: 10px;
+    font-size: 10px;
+    margin: 10px;
+    padding: 10px;
+}
+
+.cv-videos {
+    padding: 15px;
+    margin: 10px;
+    font-weight: bold;
+}
+
+.cv-bottom-card {
+    background-color: #e12d3919;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+.cv-bottom-card-head {
+    padding: 10px;
+}
+
+.cv-head {
+    font-weight: bold;
+    color: #323f4b;
+    font-family: "Roboto";
+}
+
+.cv-p {
+    color: #707070;
+    font-weight: 500;
+}
+
+.cv-bottom-button {
+    text-align: center;
+
+}
+
+.cv-button {
+    border-radius: 5px;
+    border-width: 0px;
+}
